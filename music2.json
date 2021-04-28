@@ -4,7 +4,7 @@
         "versionCode":27,
         "versionName":"1.1.7",
         "showad":true,
-        "ytshow":true,
+        "ytshow":false,
         "Random":99,
         "adRandom":3,
         "updateInfo":"com.musicpro.downloader.qswr",
