@@ -4,7 +4,7 @@
         "versionCode":16,
         "versionName":"1.1.7",
         "showad":true,
-        "ytshow":false,
+        "ytshow":true,
         "Random":1,
         "adRandom":1,
         "updateInfo":"com.musicwcl.downloader.pro",
