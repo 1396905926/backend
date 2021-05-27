@@ -4,8 +4,8 @@
         "versionCode":27,
         "versionName":"1.1.7",
         "showad":false,
-        "ytshow":false,
-        "Random":3,
+        "ytshow":true,
+        "Random":2,
         "adRandom":1,
         "updateInfo":"com.musicpro.downloader.qswr",
         "url":"https://play.google.com/store/apps/details?id=com.musicpro.downloader.qswr",
@@ -14,7 +14,7 @@
         "vk":2,
         "isOnStore":true,
         "kwcookie":"PQTJJ6QQ9F",
-        "getHot":1
+        "getHot":2
     },
     "path":"app-debug.apk",
     "ads":{
