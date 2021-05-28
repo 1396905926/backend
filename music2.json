@@ -1,10 +1,10 @@
 {  
     "data":{
         "cookie":"12",
-        "versionCode":27,
+        "versionCode":30,
         "versionName":"1.1.7",
-        "showad":true,
-        "ytshow":false,
+        "showad":false,
+        "ytshow":true,
         "tube":1,
         "Random":2,
         "adRandom":1,
