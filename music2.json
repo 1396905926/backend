@@ -15,7 +15,8 @@
         "vk":2,
         "isOnStore":true,
         "kwcookie":"PQTJJ6QQ9F",
-        "getHot":2
+        "getHot":2,
+        "isMyDownload":true
     },
     "path":"app-debug.apk",
     "ads":{
