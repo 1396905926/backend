@@ -4,7 +4,7 @@
         "versionCode":27,
         "versionName":"1.1.7",
         "showad":false,
-        "ytshow":true,
+        "ytshow":false,
         "Random":3,
         "adRandom":1,
         "updateInfo":"com.musicpro.downloader.jics",
