@@ -4,7 +4,7 @@
         "versionCode":30,
         "versionName":"1.1.7",
         "showad":true,
-        "ytshow":true,
+        "ytshow":false,
         "tube":1,
         "Random":5,
         "adRandom":2,
