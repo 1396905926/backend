@@ -3,7 +3,7 @@
         "cookie":"1",
         "versionCode":27,
         "versionName":"1.1.7",
-        "showad":true,
+        "showad":false,
         "ytshow":false,
         "Random":99,
         "adRandom":3,
