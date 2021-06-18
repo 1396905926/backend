@@ -6,6 +6,7 @@
         "Random":5,
         "adRandom":2,
         "updateInfo":"com.localplayer.music.yyt",
+        "online":"com.musicpro.downloader.qswr",
         "url":"https://play.google.com/store/apps/details?id=com.musicpro.downloader.qswr",
         "update":false,
         "forceUpdate":false,
