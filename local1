@@ -1,0 +1,21 @@
+{  
+    "data":{
+        "versionCode":2,
+        "versionName":"1.0.2",
+        "showad":false,
+        "Random":5,
+        "adRandom":2,
+        "updateInfo":"com.localplayer.music.yyt",
+        "url":"https://play.google.com/store/apps/details?id=com.musicpro.downloader.qswr",
+        "update":false,
+        "forceUpdate":false,
+        "isOnStore":true
+       
+    },
+    "path":"app-debug.apk",
+    "ads":{
+         "app":"",  
+           "id":"ca-app-pub-3515073408680352/3707077073"
+    }
+   
+}
