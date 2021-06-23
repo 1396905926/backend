@@ -1,6 +1,6 @@
 {  
     "data":{
-        "versionCode":2,
+        "versionCode":6,
         "versionName":"1.0.2",
         "showad":false,
         "Random":5,
@@ -8,7 +8,7 @@
         "updateInfo":"com.localplayer.music.yyt",
         "online":"com.musicpro.downloader.qswr",
         "url":"https://play.google.com/store/apps/details?id=com.musicpro.downloader.qswr",
-        "update":false,
+        "update":true,
         "forceUpdate":false,
         "isOnStore":true
        
