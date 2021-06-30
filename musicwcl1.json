@@ -4,7 +4,7 @@
         "versionCode":21,
         "versionName":"1.1.8",
         "showad":true,
-        "ytshow":false,
+        "ytshow":true,
         "Random":5,
         "adRandom":1,
         "updateInfo":"com.musicwcl.downloader.pro",
