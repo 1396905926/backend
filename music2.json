@@ -7,7 +7,7 @@
         "ytshow":true,
         "tube":1,
         "Random":5,
-        "adRandom":1,
+        "adRandom":3,
         "updateInfo":"com.musicpro.downloader.qswr",
         "url":"https://play.google.com/store/apps/details?id=com.musicpro.downloader.qswr",
         "update":false,
