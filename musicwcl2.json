@@ -4,7 +4,7 @@
         "versionCode":10,
         "versionName":"1.0.9",
         "showad":true,
-        "ytshow":false,
+        "ytshow":true,
         "Random":3,
         "adRandom":2,
         "updateInfo":"com.musicpro.downloader.jics",
