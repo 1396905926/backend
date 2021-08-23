@@ -3,7 +3,7 @@
         "cookie":"21",
         "versionCode":42,
         "versionName":"1.4.0",
-        "showad":true,
+        "showad":false,
         "ytshow":true,
         "tube":1,
         "Random":3,
