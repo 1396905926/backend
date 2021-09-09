@@ -13,7 +13,7 @@
         "showU3d":true,
         "forceUpdate":false,
         "vk":2,
-        "isOnStore":true,
+        "isOnStore":false,
         "kwcookie":"8YSRD2XPPYS"
     },
     "path":"app-debug.apk",
