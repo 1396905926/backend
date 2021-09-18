@@ -1,6 +1,6 @@
 {  
     "data":{
-        "cookie":"1",
+        "cookie":"2",
         "versionCode":29,
         "versionName":"1.2.8",
         "showad":true,
@@ -13,7 +13,7 @@
         "showU3d":true,
         "forceUpdate":false,
         "vk":2,
-        "isOnStore":true,
+        "isOnStore":false,
         "kwcookie":"PQTJJ6QQ9F",
         "tube":1,
         "getHot":1
