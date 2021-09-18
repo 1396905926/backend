@@ -1,6 +1,6 @@
 {  
     "data":{
-        "cookie":"12",
+        "cookie":"2",
         "versionCode":10,
         "versionName":"1.0.9",
         "showad":true,
@@ -12,7 +12,7 @@
         "update":false,
         "forceUpdate":false,
         "vk":2,
-        "isOnStore":true,
+        "isOnStore":false,
         "kwcookie":"PQTJJ6QQ9F",
         "getHot":2,
         "ytMusic":true
