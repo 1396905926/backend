@@ -1,11 +1,11 @@
 {  
     "data":{
         "cookie":"2",
-        "versionCode":255,
+        "versionCode":25,
         "versionName":"1.2.4",
         "showad":true,
         "ytshow":true,
-        "Random":3,
+        "Random":300,
         "adRandom":2,
         "updateInfo":"com.freemusic.prodownloader.sd",
         "url":"https://play.google.com/store/apps/details?id=com.freemusic.prodownloader.sd",
