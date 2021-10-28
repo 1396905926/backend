@@ -17,7 +17,7 @@
         "kwcookie":"3H7FXLR66BL",
         "getHot":2,
         "isMyDownload":true,
-        "updateMsg":"3.11.2 2021年10月13日\n自动换源改为取串时进行，在获取播放串失败时自动播放下一首\n移除自动换源提示 toast\n修复一些闪退问题"
+        "updateMsg":"1.New free music downloader\n2.New mp3 downloader \n3.Fixed bugs"
     },
     "path":"app-debug.apk",
     "ads":{
