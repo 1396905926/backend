@@ -17,7 +17,8 @@
         "kwcookie":"UFZCRHEDXD",
         "getHot":2,
         "isMyDownload":true,
-        "updateMsg":"1.New free music downloader\n2.New mp3 downloader \n3.Fixed bugs..."
+        "updateMsg":"1.New free music downloader\n2.New mp3 downloader \n3.Fixed bugs...",
+        "isYTMusic":true
     },
     "path":"app-debug.apk",
     "ads":{
