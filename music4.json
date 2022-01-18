@@ -1,12 +1,12 @@
 {  
     "data":{
-        "cookie":"1",
-        "versionCode":1100,
+        "cookie":"12",
+        "versionCode":111,
         "versionName":"1.1.0",
         "showad":true,
         "ytshow":true,
         "Random":2,
-        "adRandom":3,
+        "adRandom":1,
         "updateInfo":"com.musix.freeyt.xpro",
         "url":"com.musix.freeyt.xpro",
         "update":false,
