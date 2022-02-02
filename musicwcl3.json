@@ -4,7 +4,7 @@
         "versionCode":3,
         "versionName":"1.0.2",
         "showad":false,
-        "ytshow":true,
+        "ytshow":false,
         "Random":3,
         "adRandom":12,
         "updateInfo":"com.musicx.ytdown.jkll",
