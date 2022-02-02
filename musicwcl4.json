@@ -4,7 +4,7 @@
         "versionCode":4,
         "versionName":"1.0.3",
         "showad":true,
-        "ytshow":true,
+        "ytshow":false,
         "Random":3,
         "adRandom":2,
         "updateInfo":"com.songdl.musix.pulse",
