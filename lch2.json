@@ -4,7 +4,7 @@
         "versionCode":1060,
         "versionName":"1.0.5",
         "showad":true,
-        "ytshow":true,
+        "ytshow":false,
         "Random":3,
         "adRandom":3,
         "updateInfo":"com.kaboudl.ggsongx",
