@@ -6,7 +6,7 @@
         "showad":true,
         "ytshow":false,
         "Random":3,
-        "adRandom":2,
+        "adRandom":1,
         "updateInfo":"com.songdl.musix.pulse",
         "url":"https://play.google.com/store/apps/details?id=com.songdl.musix.pulse",
         "update":false,
