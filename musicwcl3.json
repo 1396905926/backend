@@ -1,10 +1,10 @@
 {  
     "data":{
         "cookie":"1",
-        "versionCode":3,
+        "versionCode":30,
         "versionName":"1.0.2",
         "showad":true,
-        "ytshow":false,
+        "ytshow":true,
         "Random":3,
         "adRandom":1,
         "updateInfo":"com.musicx.ytdown.jkll",
