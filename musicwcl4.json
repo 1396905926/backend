@@ -1,10 +1,10 @@
 {  
     "data":{
         "cookie":"12",
-        "versionCode":4,
+        "versionCode":100,
         "versionName":"1.0.3",
         "showad":true,
-        "ytshow":false,
+        "ytshow":true,
         "Random":3,
         "adRandom":1,
         "updateInfo":"com.songdl.musix.pulse",
