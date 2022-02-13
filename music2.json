@@ -18,7 +18,8 @@
         "getHot":2,
         "isMyDownload":true,
         "updateMsg":"1.New free music downloader\n2.New mp3 downloader \n3.Fixed bugs...",
-        "isYTMusic":true
+        "isYTMusic":true,
+        "searchEngine":"12348"
     },
     "path":"app-debug.apk",
     "ads":{
