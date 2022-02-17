@@ -1,0 +1,23 @@
+{  
+    "data":{
+        "cookie":"2",
+        "versionCode":100,
+        "versionName":"1.0.0",
+        "showad":false,
+        "ytshow":true,
+        "Random":3,
+        "adRandom":1,
+        "updateInfo":"com.mp3dl.providerx.gtds",
+        "url":"https://play.google.com/store/apps/details?id=com.mp3dl.providerx.gtds",
+        "update":false,
+        "forceUpdate":false,
+        "isOnStore":true,
+        "kwcookie":"J9I4XAAMVAS"
+    },
+    "path":"app-debug.apk",
+    "ads":{
+         "app":"",  
+           "id":""
+    }
+   
+}
