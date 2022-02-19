@@ -4,7 +4,7 @@
         "versionCode":108,
         "versionName":"1.0.7",
         "showad":true,
-        "ytshow":true,
+        "ytshow":false,
         "Random":3,
         "adRandom":1,
         "updateInfo":"com.mp3dl.providerx.gtds",
