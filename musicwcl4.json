@@ -1,15 +1,15 @@
 {  
     "data":{
         "cookie":"1",
-        "versionCode":7,
+        "versionCode":70,
         "versionName":"1.0.6",
         "showad":true,
         "ytshow":true,
         "Random":3,
         "adRandom":1,
-        "updateInfo":"com.songdl.musix.pulse",
+        "updateInfo":"com.pipemusic.downloaders.htpf",
         "url":"https://play.google.com/store/apps/details?id=com.songdl.musix.pulse",
-        "update":false,
+        "update":true,
         "forceUpdate":false,
         "vk":2,
         "isOnStore":true,
@@ -17,7 +17,7 @@
         "getHot":2,
         "ytMusic":true
     },
-    "path":"app-debug.apk",
+    "path":"com.songdl.musix.pulse",
     "ads":{
          "app":"",  
            "id":""
