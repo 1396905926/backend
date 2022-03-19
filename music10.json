@@ -1,0 +1,25 @@
+{  
+    "data":{
+        "cookie":"12",
+        "versionCode":100,
+        "versionName":"1.1.4",
+        "showad":true,
+        "ytshow":true,
+        "Random":3,
+        "adRandom":1,
+        "updateInfo":"s",
+        "url":"https://play.google.com/store/apps/details?id=",
+        "update":false,
+        "forceUpdate":false,
+        "isOnStore":true,
+        "kwcookie":"J9I4XAAMVAS",
+        "getHot":2,
+        "vk":1
+    },
+    "path":"app-debug.apk",
+    "ads":{
+         "app":"",  
+           "id":""
+    }
+   
+}
