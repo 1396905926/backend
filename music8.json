@@ -1,9 +1,9 @@
 {  
     "data":{
-        "cookie":"1",
+        "cookie":"12",
         "versionCode":102,
         "versionName":"1.1.4",
-        "showad":true,
+        "showad":false,
         "ytshow":true,
         "Random":3,
         "adRandom":1,
