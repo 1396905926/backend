@@ -1,12 +1,12 @@
 {  
     "data":{
-        "cookie":"12",
+        "cookie":"2",
         "versionCode":99999,
         "versionName":"1.1.4",
-        "showad":false,
+        "showad":true,
         "ytshow":true,
         "Random":3,
-        "adRandom":1,
+        "adRandom":3,
         "updateInfo":"com.freesongs.ppits",
         "url":"https://play.google.com/store/apps/details?id=com.freesongs.ppits",
         "update":false,
