@@ -2,7 +2,7 @@
     "data":{
         "versionCode":6,
         "versionName":"1.0.2",
-        "showad":true,
+        "showad":false,
         "Random":5,
         "adRandom":2,
         "updateInfo":"com.localplayer.music.yyt",
